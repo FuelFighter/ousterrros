@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/setup.sh

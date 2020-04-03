@@ -1,0 +1,7 @@
+ouster_example/ouster_viz
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/cmake.lock /home/fuelfighter/ousteronly_ws/devel/./cmake.lock
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/lib/libouster_viz.a /home/fuelfighter/ousteronly_ws/devel/lib/libouster_viz.a
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/lib/pkgconfig/ouster_viz.pc /home/fuelfighter/ousteronly_ws/devel/lib/pkgconfig/ouster_viz.pc
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/lib/ouster_viz/viz /home/fuelfighter/ousteronly_ws/devel/lib/ouster_viz/viz
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig-version.cmake /home/fuelfighter/ousteronly_ws/devel/share/ouster_viz/cmake/ouster_vizConfig-version.cmake
+/home/fuelfighter/ousteronly_ws/devel/.private/ouster_viz/share/ouster_viz/cmake/ouster_vizConfig.cmake /home/fuelfighter/ousteronly_ws/devel/share/ouster_viz/cmake/ouster_vizConfig.cmake
